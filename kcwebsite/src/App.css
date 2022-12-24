@@ -1,9 +1,10 @@
 
 
 .App {
-    background-color: rgb(55, 87, 116);
     width: auto;
     height: 2000px;
+    padding: auto;
+    margin: 0%;
     background-image: url('./images/bckimg.jpg');
     background-position: center;
 }
