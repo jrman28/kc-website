@@ -1,3 +1,17 @@
-#app {
-    background-color: aquamarine;
+
+
+.App {
+    background-color: rgb(55, 87, 116);
+    width: auto;
+    height: 2000px;
+    background-image: url('./images/bckimg.jpg');
+    background-position: center;
 }
+
+h1 {
+    text-align: center;
+    padding-top: 30%;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+
+}
+
